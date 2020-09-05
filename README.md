@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 **Version 1** - Bare Bones
 
-<img align="left" src="https://res.cloudinary.com/b1917/image/upload/v1599334639/TipIn_V1_nal1pm.gif" width="400" alt='Video Walkthrough' />
+<img style="float: left;" src="https://res.cloudinary.com/b1917/image/upload/v1599334639/TipIn_V1_nal1pm.gif" width="400" alt='Video Walkthrough' />
 
 GIF created with [CloudConvert](https://cloudconvert.com/).
 

@@ -28,6 +28,8 @@ class ViewController: UIViewController {
         view.endEditing(true)
     
     }
+    
+    
     @IBAction func calculateTip(_ sender: Any) {
         
         //Get the bill amt
